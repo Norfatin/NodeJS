@@ -1,0 +1,11 @@
+{
+  "name": "section6_dynamic_content_templating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "norfatinismat",
+  "license": "ISC"
+}
